@@ -10,7 +10,7 @@ A full-stack Task Manager application built with **React Native (Expo)** and **N
 
 | Login | Tasks (User) | Tasks (Admin) | Task Detail | Create Task | Profile |
 |-------|-------------|---------------|-------------|-------------|---------|
-| _(screenshot)_ | _(screenshot)_ | _(screenshot)_ | _(screenshot)_ | _(screenshot)_ | _(screenshot)_ |
+| _(screensho)_ | _(screenshot)_ | _(screenshot)_ | _(screenshot)_ | _(screenshot)_ | _(screenshot)_ |
 
 ---
 
