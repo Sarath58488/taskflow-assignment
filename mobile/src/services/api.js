@@ -3,7 +3,7 @@ import AsyncStorage from '@react-native-async-storage/async-storage';
 // ⚠️  Change this to your actual backend URL
 // Local dev: 'http://192.168.X.X:5000/api'  (use your machine's LAN IP, not localhost)
 // Deployed:  'https://your-backend.onrender.com/api'
-const BASE_URL = 'http://192.168.1.5:5000/api';
+const BASE_URL = 'https://taskflow-assignment.onrender.com/api';
 const TOKEN_KEY = '@tm_token';
 const USER_KEY = '@tm_user';
 
